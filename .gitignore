@@ -1,0 +1,19 @@
+## to adding ignore files
+## User settings
+xcuserdata/
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## image
+*.img
+*.png
+*.jpeg
+*.jpg
+
